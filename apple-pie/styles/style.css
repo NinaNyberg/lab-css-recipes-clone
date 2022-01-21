@@ -7,7 +7,7 @@ body {
 
 header {
   background-image: url(/images/apple-pie.jpg);
-  height: 400px;
+  height: 500px;
   background-size: cover;
   width: 100%;
   display: flex;
@@ -37,7 +37,7 @@ h2 {
 hr {
   flex-grow: 1;
   width: 100%;
-  margin: 10px;
+  margin: 20px 0;
 }
 
 img {
