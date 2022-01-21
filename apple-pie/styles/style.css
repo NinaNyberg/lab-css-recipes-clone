@@ -2,6 +2,7 @@ body {
   font-family: sans-serif;
   line-height: 1.5;
   margin: 0;
+  color: lightslategray;
 }
 
 header {
@@ -35,12 +36,13 @@ h2 {
 hr {
   flex-grow: 1;
   width: 100%;
+  margin: 10px;
 }
 
 img {
   display: block;
   margin: 0 auto;
-  width: 30%;
+  width: 40%;
 }
 
 ul {
